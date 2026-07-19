@@ -21,14 +21,32 @@
   weight = 20
 
 [[main]]
+  pre = "youtube"
+  name = "YouTube"
+  url = "https://youtube.com/@oyamairuka"
+  weight = 30
+
+[[main]]
   pre = "github"
   name = "GitHub"
   url = "https://github.com/oyamairuka"
-  weight = 30
+  weight = 40
+
+[[main]]
+  pre = "x-twitter"
+  name = ""
+  url = "https://x.com/oyamairuka_"
+  weight = 50
 
 [[footer]]
   name = "プライバシーポリシー"
   pageRef = "privacy"
+  weight = 10
+
+[[footer]]
+  name = "About"
+  pageRef = "posts/2026-07-19-about"
+  weight = 20
 
 #[[main]]
 #  name = "Parent"
