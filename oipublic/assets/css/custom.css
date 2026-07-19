@@ -1,6 +1,7 @@
 :root {
     --font-body: "Noto Sans JP", sans-serif;
     --font-heading: "Dela Gothic One", sans-serif;
+    --font-song-comment: "BIZ UDPGothic", sans-serif;
 }
 
 body {
@@ -9,4 +10,11 @@ body {
 
 h1, h2, h3, h4, h5, h6 {
     font-family: var(--font-heading);
+}
+
+/* 楽曲コメント用フォント */
+.song-comment {
+    font-family: var(--font-song-comment);
+    font-size: 1.5rem;
+    font-weight: bold;
 }
