@@ -2,6 +2,7 @@
 title: "プライバシーポリシー"
 date: 2026-07-19
 draft: false
+layout: "simple"
 ---
 
 本サイトは、静的なWebサイトとして運営しています。
