@@ -1,0 +1,25 @@
+# Hugo build output
+oipublic/public/
+
+# Hugo build lock file
+oipublic/.hugo_build.lock
+
+# Hugo cache
+oipublic/resources/
+
+# Go module cache
+oipublic/.go/
+
+# Node modules (if using npm/yarn)
+oipublic/node_modules/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
