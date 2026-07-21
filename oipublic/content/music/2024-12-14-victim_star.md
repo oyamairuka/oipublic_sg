@@ -3,7 +3,7 @@ title: "えじき星"
 date: 2024-12-14
 description: ""
 summary: ""
-tags: []
+tags: ["2024"]
 ---
 
 ## YouTube

@@ -3,7 +3,7 @@ title: "家をひろげる唄"
 date: 2023-10-28
 description: ""
 summary: ""
-tags: []
+tags: ["2023"]
 ---
 
 ## YouTube

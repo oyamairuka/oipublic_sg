@@ -3,7 +3,7 @@ title: "架空のバトル"
 date: 2025-07-12
 description: ""
 summary: ""
-tags: []
+tags: ["2025"]
 ---
 
 ## YouTube

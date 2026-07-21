@@ -48,6 +48,26 @@
   pageRef = "posts/2026-07-19-about"
   weight = 20
 
+[[footer]]
+  name = "2023"
+  url = "/tags/2023"
+  weight = 30
+
+[[footer]]
+  name = "2024"
+  url = "/tags/2024"
+  weight = 31
+
+[[footer]]
+  name = "2025"
+  url = "/tags/2025"
+  weight = 32
+
+[[footer]]
+  name = "2026"
+  url = "/tags/2026"
+  weight = 33
+
 #[[main]]
 #  name = "Parent"
 #  weight = 20

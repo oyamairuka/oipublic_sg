@@ -3,7 +3,7 @@ title: "こもれびのイルカくん"
 date: 2023-10-07
 description: ""
 summary: ""
-tags: []
+tags: ["2023"]
 ---
 
 ## YouTube

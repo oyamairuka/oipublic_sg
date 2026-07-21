@@ -3,7 +3,7 @@ title: "宇宙最後の日のうた"
 date: 2025-11-09
 description: ""
 summary: ""
-tags: []
+tags: ["2025"]
 ---
 
 ## YouTube

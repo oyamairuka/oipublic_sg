@@ -3,7 +3,7 @@ title: "最後に出てくる王さまを恐れる歌"
 date: 2026-05-16
 description: ""
 summary: ""
-tags: []
+tags: ["2026"]
 ---
 
 ## YouTube
