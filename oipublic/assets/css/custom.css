@@ -2,6 +2,7 @@
     --font-body: "Noto Sans JP", sans-serif;
     --font-heading: "Dela Gothic One", sans-serif;
     --font-song-comment: "BIZ UDPGothic", sans-serif;
+    --font-song-lyrics: "M PLUS Rounded 1c", sans-serif;
 }
 
 body {
@@ -17,4 +18,11 @@ h1, h2, h3, h4, h5, h6 {
     font-family: var(--font-song-comment);
     font-size: 1.5rem;
     font-weight: bold;
+}
+
+/* 歌詞用フォント */
+.song-lyrics {
+    font-family: var(--font-song-lyrics);
+    font-size: 1.2rem;
+    font-weight: normal;
 }
